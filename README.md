@@ -1,5 +1,7 @@
 # 为非科技从业者而建的仓库
 
+**Every expert was once a beginner.**
+
 2026.5.31创建的第一个专为非科技从业者创建的开源仓库。
 
 目前由Star-hhy贡献。
@@ -15,6 +17,8 @@
 也可以添加微信：hhyhanhan
 
 # A Repository for Non-Tech Professionals
+
+**Every expert was once a beginner.**
 
 Created on May 31, 2026, this is my first open-source repository dedicated to helping people outside the technology field better understand and use technology.
 
